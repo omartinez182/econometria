@@ -1,2 +1,2 @@
-# econometria
-Econometria en R
+# Econometría
+Econometría en R
