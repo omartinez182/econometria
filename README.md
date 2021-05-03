@@ -1,0 +1,2 @@
+# econometria
+Econometria en R
